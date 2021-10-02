@@ -4,11 +4,15 @@
 https://user-images.githubusercontent.com/91649906/135709419-55130ac5-5607-4794-ada5-4bf1c0028243.mp4
 
 # Introduction 🚀
-I'm Shrestha Majumdar and I'm from nsec IT 1st Year
 
-## ⭐Basic Details
+## Hey👋 I'm Shrestha Majumdar 
+
+## I'm pursuing BTech in IT from NSEC
+
 
 ![IMG-20211002-WA0069](https://user-images.githubusercontent.com/91649906/135710392-3c04273f-2b59-465d-b4ab-95830a878ec3.jpg)
+
+## ⭐Basic Details
 
 **Name**- *Shrestha Majumdar*
 
