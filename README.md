@@ -1,9 +1,15 @@
 ![]()
 
+
+https://user-images.githubusercontent.com/91649906/135709419-55130ac5-5607-4794-ada5-4bf1c0028243.mp4
+
 # Introduction 🚀
 I'm Shrestha Majumdar and I'm from nsec IT 1st Year
 
 ## ⭐Basic Details
+
+![IMG-20211002-WA0069](https://user-images.githubusercontent.com/91649906/135710392-3c04273f-2b59-465d-b4ab-95830a878ec3.jpg)
+
 **Name**- *Shrestha Majumdar*
 
 **City**- *Kolkata*
@@ -18,17 +24,14 @@ I'm Shrestha Majumdar and I'm from nsec IT 1st Year
 ##⭐ Here are my skills
 | S.no | Skills|
 |---|---|
-|1.| React |
-|2.| Java |
-|3.| Javascript |
-|4.| C |
+|1.| C |
 
 ## ⭐Courses
 1. Coursera
-2. Udemy
-3. Unacademy
+2. Unacademy
 
 ## ⭐Language
+
 - Hindi
 - Bengali
 - English
