@@ -21,7 +21,7 @@ I'm Shrestha Majumdar and I'm from nsec IT 1st Year
 
 **College City**- *Kolkata, Garia*
 
-##⭐ Here are my skills
+## ⭐ Here are my skills
 | S.no | Skills|
 |---|---|
 |1.| C |
