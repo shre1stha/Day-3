@@ -39,6 +39,7 @@
 - Bengali
 - English
 
-## ⭐Here is the link for my linkedin <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
-[Click on this Link](https://www.linkedin.com/in/shrestha-majumdar-7085b0221)
+## ⭐ 
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/shrestha-majumdar-7085b0221)
+[<img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>](https://mail.google.com/mail/u/0/#inbox)
 
